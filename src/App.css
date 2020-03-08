@@ -1,0 +1,58 @@
+
+html {
+  overflow-x: hidden;
+  width: 100%;
+   overflow-y: scroll!important; 
+   
+}
+ 
+.fondo{
+  width: 100%;
+   height: 500px;
+  background-image: url('/img/fondo1.svg');
+  background-repeat: no-repeat;
+ }
+
+ .parallax { 
+  background-image:url('https://raw.githubusercontent.com/diegomarcillop/portfolio/master/public/img/fondo1.png');
+  width: 100%;
+  min-height: 500px; 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-fondo {
+   width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 0;
+}
+
+.central-content {
+  justify-content: center;
+   margin: auto;
+}
+h2{
+  font-family: 'Boogaloo', cursive;
+  color: aliceblue;
+
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+}
+ 
+::-webkit-scrollbar-track{
+  border: 7px solid #e6e6e6;
+  box-shadow: inset 0 0 2.5px 2pxrgb(46, 71, 100);
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #38638b;
+}
+ 

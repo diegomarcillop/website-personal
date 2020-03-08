@@ -1,0 +1,30 @@
+.contact h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin: 2px 0px 5px 5px;
+}
+
+.contact i{
+    font-size: 30px;
+    margin: 0px 2px 0px 0px;
+    color: rgb(77, 133, 255);
+}
+
+.contact {
+    margin: 18px 20% 5px 18%;
+    height: 200px;
+}
+
+.contact-dat{
+    margin: 100px 0px 100px 0px;
+}
+
+.img-contact{
+    width: 70%;
+}
+
+.datos{
+    margin: 25px 0px 0px 0px;
+}
+
+ 
