@@ -1,8 +1,11 @@
  
 
 ## Installation
-
-### `npm install ` 
-
+``` javascript
+ npm install
+```
 ## Running the project
-### `npm run start ` 
+``` javascript
+ npm run start
+``` 
+## Preview
