@@ -9,14 +9,14 @@ function Skill() {
                 <div className="container ">
                     <div className=" skills">
                         <div className="  row sk">
-                            <div className="col-sm-6"   >
+                            <div className="col-sm-6" data-aos="fade-up-left"  >
                                 <ul>
                                     <li className="html">HTML</li>
                                     <li className="css">CSS</li>
                                     <li className="js">JavaScript</li> 
                                 </ul>
                             </div> 
-                            <div className="col-sm-6">
+                            <div className="col-sm-6" data-aos="fade-down-right">
                                 <ul>
                                     <li className="node">NodeJS</li>
                                     <li className="react">ReactJS</li>
